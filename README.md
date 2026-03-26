@@ -1,4 +1,4 @@
-# 2026 Best LLM API Aggregation Platform Reviews
+# 2026 Best LLM API Aggregation Platform Providers
 
 *Multimodal AI Model Aggregation Platform*
 
