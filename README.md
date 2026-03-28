@@ -112,3 +112,5 @@ Before using WaveSpeed, you'll need to add credits to your account. The minimum 
 © 2026 WaveSpeed AI Platform Review · Content curated by the author
 
 *Note: This is a third-party review page. All products and services are subject to WaveSpeed AI's official website.*
+
+[2026大模型API聚合平台体验分享：国内国外API中转服务商靠谱推荐](https://bestllm.bashige.com/)
