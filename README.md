@@ -2,7 +2,7 @@
 
 *Multimodal AI Model Aggregation Platform*
 
-Looking for an AI aggregation platform with extensive multimodal models, reliable API access, competitive pricing, and stable service? Look no further—**[WaveSpeed AI](https://wavespeedai.pxf.io/QYO4Xz)** stands out as one of the best LLM aggregation platforms available. After using it extensively for several months, let me share what makes it exceptional.
+Looking for an AI aggregation platform with extensive multimodal models, reliable API access, competitive pricing, and stable service? Look no further—**[WaveSpeed AI](https://wavespeed.ai/?ref=ballm)** stands out as one of the best LLM aggregation platforms available. After using it extensively for several months, let me share what makes it exceptional.
 
 ## Singapore-Based Company
 
@@ -10,7 +10,7 @@ WaveSpeed AI is operated by WaveSpeedAI PTE.LTD, a Singapore-based company. Leve
 
 ## Account Registration & Login
 
-**[Visit WaveSpeed AI Official Website](https://wavespeedai.pxf.io/QYO4Xz)**. Currently, the platform supports direct login via Google or GitHub accounts.
+**[Visit WaveSpeed AI Official Website](https://wavespeed.ai/?ref=ballm)**. Currently, the platform supports direct login via Google or GitHub accounts.
 
 ![Sign up and login to WaveSpeed AI using Google or GitHub account](wavespeed-signup-1024x385.jpg)
 
@@ -105,7 +105,7 @@ Before using WaveSpeed, you'll need to add credits to your account. The minimum 
 
 ---
 
-**[Sign Up for WaveSpeed AI Today and Access the Most Advanced AI Models!](https://wavespeedai.pxf.io/QYO4Xz)**
+**[Sign Up for WaveSpeed AI Today and Access the Most Advanced AI Models!](https://wavespeed.ai/?ref=ballm)**
 
 ---
 
